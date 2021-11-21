@@ -11,8 +11,7 @@
   <li>  <p>  Did you forget what to do? </p> </li>
     <li>  <p> How about taking notes? </p> </li>
     <li>  <p> Write what you want to do and click the 'Add Todo' button.  </p> </li>
-    <li> <p>   &#128516 </p> </li>
-  
+    <li> <p>  Good luck. don't forget anymore &#128516 </p> </li>
     <p> &#128151 thank you for giving a time &#128151 </p> 
   </ol>
   
