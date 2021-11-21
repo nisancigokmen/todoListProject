@@ -1,0 +1,98 @@
+body {
+    margin-left: 16em;
+    margin-top: 2em;
+}
+
+#tagAll {
+    display: flex;
+}
+
+
+/*left style*/
+
+#left-fieldset fieldset {
+    width: 21em;
+    height: 52em;
+    border-radius: 1em;
+}
+
+#left-fieldset h2 {
+    background-color: #a8a8a8;
+    width: 12em;
+    text-align: center;
+    border-radius: 1em;
+    opacity: 0.8;
+    border: 2px solid #000000;
+    margin-bottom: 2em;
+}
+
+#left-fieldset hr {
+    opacity: 0.8;
+}
+
+#left-fieldset .hr1 {
+    margin-bottom: 6em;
+}
+
+#left-fieldset .clearTodoBtn {
+    width: 12em;
+    height: 3em;
+    color: #f2f2f2;
+    background-color: #000000;
+    border-radius: 1.5em;
+    opacity: 0.7;
+    margin-top: 2em;
+    margin-left: 4em;
+}
+
+#left-fieldset .clearTodoBtn:hover {
+    background-color: #c5c5c5;
+    color: #000000;
+}
+
+#left-fieldset .clearTodoBtn:focus {
+    border: 2px solid #00ffff;
+}
+
+
+/*body fieldset style*/
+
+#body-fieldset fieldset {
+    width: 76em;
+    height: 52em;
+    border-radius: 1em;
+    margin-left: 2em;
+}
+
+#body-fieldset h2 {
+    background-color: #a8a8a8;
+    width: 12em;
+    text-align: center;
+    border-radius: 1em;
+    opacity: 0.8;
+    border: 2px solid #000000;
+    margin-bottom: 2em;
+}
+
+#body-fieldset .todoList {
+    width: 21em;
+    height: 2.5em;
+}
+
+#body-fieldset .addTodoBtn {
+    width: 12em;
+    height: 3em;
+    color: #f2f2f2;
+    background-color: #000000;
+    border-radius: 1.5em;
+    opacity: 0.7;
+}
+
+#body-fieldset .addTodoBtn:hover {
+    background-color: #f2f2f2;
+    color: #000000;
+}
+
+#body-fieldset .addTodoBtn:focus {
+    border: 2px solid #00ffff;
+}
