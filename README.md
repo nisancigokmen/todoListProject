@@ -3,7 +3,6 @@
 ![Screenshot_2021-11-21 todoList](https://user-images.githubusercontent.com/91744618/142746668-be99c9c2-bba3-4170-aef9-149a95a6b03b.png)
 
 <hr>
-
   <ol>
     
   <h3><i> use of </i></h3> 
@@ -14,8 +13,7 @@
     <li> <p>  Good luck. don't forget anymore &#128516 </p> </li>
     <p> &#128151 thank you for giving a time &#128151 </p> 
   </ol>
-  
-  
+
 <hr>
 <h2><i>CONTACT</i></h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
