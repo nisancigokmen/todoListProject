@@ -6,6 +6,7 @@
   <ol>
   
   
+  
   <h3><i> use of </i></h3> 
 
   <li>  <p>  Did you forget what to do? </p> </li>
@@ -16,12 +17,12 @@
   </ol>
 
 
-
 <hr>
 <h2><i>CONTACT</i></h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
 <div>
+  
 <img src="https://media0.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif?cid=ecf05e47dxgcnb2o5wr70u7j6jk7kousc54qvgmojcfftlpk&rid=giphy.gif&ct=g">
 </div><br>
 
