@@ -3,7 +3,6 @@
 ![Screenshot_2021-11-21 todoList](https://user-images.githubusercontent.com/91744618/142746668-be99c9c2-bba3-4170-aef9-149a95a6b03b.png)
 
 
-
 <hr>
 
   <ol>
@@ -26,5 +25,6 @@
   
 <img src="https://media0.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif?cid=ecf05e47dxgcnb2o5wr70u7j6jk7kousc54qvgmojcfftlpk&rid=giphy.gif&ct=g">
 </div><br>
+
 
 &copy; Gökmen Nişancı / Web Developer.
