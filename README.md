@@ -6,7 +6,6 @@
 
   <ol>
   
-  
   <h3><i> use of </i></h3> 
 
   <li>  <p>  Did you forget what to do? </p> </li>
@@ -14,9 +13,7 @@
     <li>  <p> Write what you want to do and click the 'Add Todo' button.  </p> </li>
     <li> <p>  Good luck. don't forget anymore &#128516 </p> </li>
     <p> &#128151 thank you for giving a time &#128151 </p> 
-  
-   
-  
+ 
   </ol>
 
 <hr>
@@ -30,6 +27,4 @@
 <img src="https://media0.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif?cid=ecf05e47dxgcnb2o5wr70u7j6jk7kousc54qvgmojcfftlpk&rid=giphy.gif&ct=g">
   
 </div><br>
-
-
 &copy; Gökmen Nişancı / Web Developer.
