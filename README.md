@@ -7,7 +7,6 @@
   <ol>
   
   <h3><i> use of </i></h3> 
-
   <li>  <p>  Did you forget what to do? </p> </li>
     <li>  <p> How about taking notes? </p> </li>
     <li>  <p> Write what you want to do and click the 'Add Todo' button.  </p> </li>
@@ -18,7 +17,6 @@
 
 <hr>
 <h2><i>CONTACT</i></h2>
-
 
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
