@@ -14,7 +14,6 @@
   
 </div>
 
-
 <div id="contact"><br>
 
  <h2> Connect with me: </h2>
