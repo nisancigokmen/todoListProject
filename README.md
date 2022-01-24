@@ -11,8 +11,7 @@
     <li><p>  Good luck. don't forget anymore &#128516 </p> </li>
 
   </ol>
-  
-  
+ 
 </div>
 
 <div id="contact"><br>
