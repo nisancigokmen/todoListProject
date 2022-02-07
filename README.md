@@ -4,7 +4,7 @@
 
 <div id="useApp">
   
-  
+
   <h3>USE OF </h3> 
   <ol>
     <li><p> How about taking notes? </p> </li>
@@ -14,6 +14,7 @@
   </ol>
  
 </div>
+
 
 
 <div id="contact">
