@@ -2,7 +2,6 @@
 
 ![Screenshot_2021-11-21 todoList](https://user-images.githubusercontent.com/91744618/142746668-be99c9c2-bba3-4170-aef9-149a95a6b03b.png)
 
-
 <div id="useApp">
   
   <h3>USE OF </h3> 
