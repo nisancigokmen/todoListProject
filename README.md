@@ -36,6 +36,7 @@
  
 <br>
 
+
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 <img src="https://media0.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif?cid=ecf05e47dxgcnb2o5wr70u7j6jk7kousc54qvgmojcfftlpk&rid=giphy.gif&ct=g">
