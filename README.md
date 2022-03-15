@@ -14,7 +14,6 @@
   
 </div>
 
-
 <div id="contact">
  
 <h2> Connect with me: </h2>
@@ -44,6 +43,5 @@
     <br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
-
 
 
