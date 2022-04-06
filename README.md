@@ -1,6 +1,5 @@
 # Todo List Project
 
-
 ![Screenshot_2021-11-21 todoList](https://user-images.githubusercontent.com/91744618/142746668-be99c9c2-bba3-4170-aef9-149a95a6b03b.png)
 
 <div id="useApp">
@@ -14,6 +13,7 @@
   </ol>
   
 </div>
+
 
 <div id="contact">
  
@@ -45,5 +45,3 @@
     <br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
-
-
