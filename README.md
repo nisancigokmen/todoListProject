@@ -1,6 +1,5 @@
 # Todo List Project
 
-
 ![Screenshot_2021-11-21 todoList](https://user-images.githubusercontent.com/91744618/142746668-be99c9c2-bba3-4170-aef9-149a95a6b03b.png)
 
 <div id="useApp">
@@ -23,7 +22,6 @@
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png"/> </a> 
 
  </div>
- 
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
